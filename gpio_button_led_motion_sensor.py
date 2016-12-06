@@ -10,7 +10,7 @@ encendido = False
 
 #button.when_pressed = led.on
 #button.when_released = led.off
-#pause()
+#pause() no more
 
 
 while True:
